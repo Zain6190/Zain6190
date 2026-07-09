@@ -1,15 +1,17 @@
 <div align="center">
 
-# Hi, I'm Zain Ul Abideen 👋
+<img src="./assets/matrix-banner.svg" width="100%" alt="Zain Ul Abideen - animated matrix banner"/>
 
-### Cloud & DevOps Engineer | Identity & Access Management | Full-Stack Developer | Agentic AI
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=BS+Computer+Science+%40+Air+University%2C+Islamabad;Identity+%26+Access+Management+Intern;Cloud+%26+DevOps+%7C+Docker+%7C+Kubernetes+%7C+Azure;Building+Agentic+AI+Systems+with+LangChain+%26+LangGraph" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e0a,100:00ff41&height=110&section=header&text=&fontColor=ffffff" width="100%"/>
 
 <a href="https://github.com/Zain6190"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=BS+Computer+Science+%40+Air+University%2C+Islamabad;Identity+%26+Access+Management+Intern;Cloud+%26+DevOps+%7C+Docker+%7C+Kubernetes+%7C+Azure;Building+Agentic+AI+Systems+with+LangChain+%26+LangGraph" />
+
+<img src="https://komarev.com/ghpvc/?username=Zain6190&label=Profile+Views&color=00C2FF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -29,47 +31,15 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,postgres&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,angular,flutter,bootstrap,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,mongodb,redis&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,terraform,jenkins,githubactions,linux&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 **Identity & Access Management**
 
@@ -79,41 +49,115 @@
 ![OpenLDAP](https://img.shields.io/badge/OpenLDAP-1F6B75?style=for-the-badge)
 ![OIDC/SAML](https://img.shields.io/badge/OIDC%2FSAML-005571?style=for-the-badge)
 
+**Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+
 ---
 
 ### 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **🌊 AquaVision AI** — *Final Year Project*
-Satellite-based water monitoring system within the IBCP-SCADA ecosystem at Air University. Five-level SCADA hierarchy, Water Availability Index, and integration of six satellite datasets (Sentinel-2, Landsat, MODIS, CHIRPS, JRC, OSM).
+Satellite-based water monitoring system within the IBCP-SCADA ecosystem at Air University. Five-level SCADA hierarchy, Water Availability Index, six satellite datasets (Sentinel-2, Landsat, MODIS, CHIRPS, JRC, OSM).
 `Python` `SCADA` `Remote Sensing` `GIS`
 
+</td>
+<td width="50%" valign="top">
+
 **🔐 Enterprise IAM Lab**
-Hands-on identity governance environment built with Keycloak, midPoint, and OpenLDAP — simulating Joiner-Mover-Leaver lifecycle automation, RBAC/ABAC design, and OIDC-based SSO, as preparation for enterprise IGA work with Fischer Identity.
+Identity governance environment on Keycloak, midPoint, and OpenLDAP — simulating Joiner-Mover-Leaver lifecycle automation, RBAC/ABAC design, and OIDC-based SSO.
 `Keycloak` `midPoint` `OpenLDAP` `Docker Compose` `OIDC`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **🚗 AUTO STAGE**
-AI-powered used car marketplace with auction and vehicle-inspection modules, role-based access control, and CI/CD deployment pipeline.
+AI-powered used car marketplace with auction and inspection modules, role-based access control, and CI/CD deployment pipeline.
 `AI Price Prediction` `Elasticsearch` `RBAC` `CI/CD`
+
+</td>
+<td width="50%" valign="top">
 
 **🏨 Hostel Management System**
 Full-stack hostel management application with automated build and containerized deployment pipeline.
 `Flutter` `Jenkins` `Docker`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **🩺 MedQue AI**
 Healthcare queue management application deployed on managed Kubernetes.
 `Flutter` `Azure Kubernetes Service`
 
+</td>
+<td width="50%" valign="top">
+
 **🛒 Gada Electronics — Online Retail Store**
-Full-stack e-commerce platform built as an Advanced Database Management Systems project, with ERD design and cloud-hosted relational database.
+Full-stack e-commerce platform with ERD design and cloud-hosted relational database.
 `Flask` `PostgreSQL (Neon)` `Bootstrap 5`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **🤖 AI RAG Chatbot**
 Retrieval-augmented generation chatbot with vector similarity search over a Postgres-backed knowledge base.
-`LangChain` `FastAPI` `PostgreSQL` `pgvector` `Docker`
+`LangChain` `FastAPI` `PostgreSQL` `pgvector`
+
+</td>
+<td width="50%" valign="top">
+
+**📂 Secure File Sharing System**
+File sharing platform with JWT-based authentication and secure upload handling.
+`MERN Stack` `JWT` `Authentication`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics Dashboard
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Zain6190/Zain6190/master/metrics.svg" width="100%" alt="metrics dashboard"/>
+
+</div>
+
+> Generated automatically by the `metrics.yml` workflow (see setup below) — updates daily.
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zain6190/Zain6190/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zain6190/Zain6190/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Zain6190/Zain6190/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+> Generated automatically by the `snake.yml` workflow (see setup below) — the snake "eats" your real contribution squares.
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -128,7 +172,19 @@ Retrieval-augmented generation chatbot with vector similarity search over a Post
 
 ---
 
+### 🏅 Achievements
+
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zain6190&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0a0e0a&height=100&section=footer" width="100%"/>
 
 ⭐ Thanks for stopping by — always open to connecting on Cloud, DevOps & IAM topics.
 
