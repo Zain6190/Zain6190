@@ -122,7 +122,7 @@ Retrieval-augmented generation chatbot with vector similarity search over a Post
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain6190&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zain6190&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://ghchart.rshah.org/2496ED/Zain6190" alt="Zain6190's GitHub contribution chart" width="90%"/>
 
 </div>
 
